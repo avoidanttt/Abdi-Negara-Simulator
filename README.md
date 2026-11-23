@@ -16,7 +16,6 @@ Script otomatis dengan pembagian tier **Free** dan **Premium**, fitur *visual & 
 
 ## 🚀 Loader
 
-Jalankan script loader berikut di executor kamu:
 
 ```lua
 loadstring(game:HttpGet("[https://key.blueshub.my.id/loader](https://key.blueshub.my.id/loader)"))()

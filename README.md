@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="[https://blueshub.my.id/logo.png](https://blueshub.my.id/logo.png)" alt="Blues Hub Logo" width="110" />
-
+<img src="./blueslogo.png" alt="Blues Hub Logo" width="110" />
 # BLUES HUB
 **Modular Automation & Utility Suite**
 

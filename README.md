@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="[https://blueshub.my.id/logo.png](https://blueshub.my.id/logo.png)" alt="Blues Hub Logo" width="110" />
+
 # BLUES HUB
 **Modular Automation & Utility Suite**
 
 [![Status](https://img.shields.io/badge/STATUS-ONLINE-33b4c7?style=for-the-badge)](https://key.blueshub.my.id)
-[![Portal](https://img.shields.io/badge/KEY%20SYSTEM-ACTIVE-0f172a?style=for-the-badge)](https://key.blueshub.my.id)
-[![Discord](https://img.shields.io/badge/DISCORD-GET%20PREMIUM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
+[![Key System](https://img.shields.io/badge/KEY%20SYSTEM-ACTIVE-0f172a?style=for-the-badge)](https://key.blueshub.my.id)
+[![Discord](https://img.shields.io/badge/DISCORD-GET%20PREMIUM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xf6HeqBmfS)
 
 </div>
 
@@ -58,6 +60,6 @@ loadstring(game:HttpGet("https://key.blueshub.my.id/loader"))()
 
 <div align="center">
 
-**Join us on Discord for Premium** • [key.blueshub.my.id](https://key.blueshub.my.id)
+**Join us on Discord for Premium** • [discord.gg/xf6HeqBmfS](https://discord.gg/xf6HeqBmfS) • [key.blueshub.my.id](https://key.blueshub.my.id)
 
 </div>

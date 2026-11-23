@@ -1,10 +1,12 @@
+
 <div align="center">
 
-<img src="./blueslogo.png" alt="Blues Hub Logo" width="110" />
-# BLUES HUB
-**Modular Automation & Utility Suite**
+<img src="./blueslogo.png/" alt="Blues Hub Logo" width="110" />
 
-[![Status](https://img.shields.io/badge/STATUS-ONLINE-33b4c7?style=for-the-badge)](https://key.blueshub.my.id)
+<h1>BLUES HUB</h1>
+<p><strong>Modular Automation &amp; Utility Suite</strong></p>
+
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-33b4c7?style=for-the-badge)]([https://key.blueshub.my.id](https://key.blueshub.my.id))
 [![Key System](https://img.shields.io/badge/KEY%20SYSTEM-ACTIVE-0f172a?style=for-the-badge)](https://key.blueshub.my.id)
 [![Discord](https://img.shields.io/badge/DISCORD-GET%20PREMIUM-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xf6HeqBmfS)
 

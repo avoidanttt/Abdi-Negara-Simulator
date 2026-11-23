@@ -17,8 +17,6 @@
 
 ## Loader
 
-Jalankan loader script **Abdi Negara Simulator** berikut melalui executor Anda:
-
 ```lua
 loadstring(game:HttpGet("https://key.blueshub.my.id/loader"))()
 ```

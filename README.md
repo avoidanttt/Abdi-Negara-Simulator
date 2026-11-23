@@ -61,6 +61,6 @@ loadstring(game:HttpGet("https://key.blueshub.my.id/loader"))()
 
 <div align="center">
 
-**Join us on Discord for Premium** • [discord.gg/xf6HeqBmfS](https://discord.gg/xf6HeqBmfS) • [key.blueshub.my.id](https://key.blueshub.my.id)
+**Join us on Discord for Premium** • [Discord](https://discord.gg/xf6HeqBmfS) • [Website](https://blueshub.my.id)
 
 </div>

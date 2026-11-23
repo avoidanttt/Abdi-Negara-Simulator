@@ -1,40 +1,22 @@
-[ Free User ]
+<div align="center">
 
-• Auto Push-up
+# ⚡ BLUES HUB — Script Loader
 
-• Auto Sit-up
+[![Status](https://img.shields.io/badge/Status-Active-33b4c7?style=for-the-badge)](https://key.blueshub.my.id)
+[![Platform](https://img.shields.io/badge/Platform-Roblox-111827?style=for-the-badge&logo=roblox&logoColor=white)](https://key.blueshub.my.id)
+[![Key System](https://img.shields.io/badge/Key%20System-Blues%20Hub-0f172a?style=for-the-badge)](https://key.blueshub.my.id)
 
-• Auto Pull-up
+Script otomatis dengan pembagian tier **Free** dan **Premium**, fitur *visual & utility*, serta update *operational map*.
 
-• Auto JJS
+[🚀 Loader](#-loader) • [✨ Fitur](#-fitur) • [🆕 Update Terbaru](#-update-terbaru) • [💬 Discord](#-komunitas--premium)
 
+</div>
 
-[ Premium ]
+---
 
-• Auto Exercise (Auto Change SKP)
+## 🚀 Loader
 
-• Auto Claim
+Jalankan script loader berikut di executor kamu:
 
-• Auto Farm
-
-• Obby Anti Teleport (Tamtama / Bintara / Pama / Pamen / Pati)
-
-[ Visual & Utility ]
-
-• ESP Player
-
-• Anti-Admin
-
-• Anti-AFK
-
-• FPS Booster + FPS Cap
-
-• Find Empty Server / Rejoin
-
-NEW UPDATE !
-Operational Map :
-• Auto Farm (Roaming + Kill NPC)
-
-Loader : loadstring(game:HttpGet("https://key.blueshub.my.id/loader"))()
-
-Join us on Discord for Premium
+```lua
+loadstring(game:HttpGet("[https://key.blueshub.my.id/loader](https://key.blueshub.my.id/loader)"))()
